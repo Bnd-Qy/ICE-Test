@@ -20,4 +20,4 @@ ICE-Test是一个由python语言设计的单元测试框架，去除了`unittest
 
 [个人博客](https://ice-pact.blog.csdn.net/)
 
-如果觉得有用的话给个:star:吧
+如果觉得有用的话给个 :star: 吧
