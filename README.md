@@ -12,7 +12,7 @@ ICE-Test是一个由python语言设计的单元测试框架，去除了`unittest
 
 #### 使用截图
 
-![example](resources\images\example.png)
+![example](./resources/images/example.png)
 
 
 
